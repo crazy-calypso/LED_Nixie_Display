@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LED_Nixie_Display.PrjPcb]
+   Generated File[MasterBoard.TXT]
+   Generated File[MasterBoard.LDP]
+   Generated File[MasterBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:54:35 AM On 20/05/2019
