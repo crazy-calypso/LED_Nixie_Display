@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LED_Nixie_Display_Pills.PrjPcb]
+   Generated File[TouchBoard.TXT]
+   Generated File[TouchBoard.LDP]
+   Generated File[TouchBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:23:26 AM On 20/05/2019

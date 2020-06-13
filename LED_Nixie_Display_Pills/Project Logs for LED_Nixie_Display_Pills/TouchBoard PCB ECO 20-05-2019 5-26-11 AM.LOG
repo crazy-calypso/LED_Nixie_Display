@@ -1,0 +1,6 @@
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[1]{}width[15]{}height[15]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CS0 Pin=CS?-1
+Added Member To Class: ClassName=Touch Member=Component CS? QTouch Button

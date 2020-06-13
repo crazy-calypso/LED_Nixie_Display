@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CS1 Pin=CS4-1
+Removed Pin From Net: NetName=Guard Pin=CS4-2
+Removed Pin From Net: NetName=CS4 Pin=P1-5
+Removed Member From Class: ClassName=Touch Member=CS4

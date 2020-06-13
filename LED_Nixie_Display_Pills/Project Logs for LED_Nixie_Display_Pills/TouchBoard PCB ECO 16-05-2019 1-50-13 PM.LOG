@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=CS3 Pin=R1-1
+Removed Pin From Net: NetName=CS4 Pin=R2-1
+Removed Pin From Net: NetName=NetCS3_1 Pin=R3-1
+Removed Pin From Net: NetName=CS0 Pin=R3-2
+Change Component Comment : Designator=CS1 Old Comment=Chevron mTouch Slider New Comment=Mutual Ring mTouch Sensor
+Change Component Comment : Designator=CS2 Old Comment=Linear mTouch Slider New Comment=Mutual Ring mTouch Sensor
+Added Pin To Net: NetName=CS4 Pin=R1-1
+Added Pin To Net: NetName=CS3 Pin=R2-1
+Added Pin To Net: NetName=CS0 Pin=R3-1
+Added Pin To Net: NetName=NetCS3_1 Pin=R3-2
+Added Member To Class: ClassName=Touch Member=Component CS3 Mutual Ring mTouch Sensor
+Added Member To Class: ClassName=Touch Member=Component R9 TC33X-2-103E

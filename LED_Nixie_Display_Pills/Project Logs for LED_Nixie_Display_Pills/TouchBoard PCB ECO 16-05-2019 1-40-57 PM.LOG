@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=CS? NewDesignator=CS1
+Change Component Designator: OldDesignator=CS? NewDesignator=CS2
+Change Component Designator: OldDesignator=CS? NewDesignator=CS3
+Change Component Designator: OldDesignator=CS? NewDesignator=CS4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=U*? NewDesignator=U*1
+Added Pin To Net: NetName=CS3 Pin=R1-1
+Change Net Name : Old Net Name=NetCS?_1 New Net Name=NetCS3_1
+Added Pin To Net: NetName=NetCS1_1 Pin=CS1-1
+Added Pin To Net: NetName=NetCS1_1 Pin=R1-2
+Added Net: Name=NetCS1_1
+Added Pin To Net: NetName=NetCS2_1 Pin=CS2-1
+Added Pin To Net: NetName=NetCS2_1 Pin=R2-2
+Added Net: Name=NetCS2_1
+Added Pin To Net: NetName=NetCS4_1 Pin=CS4-1
+Added Pin To Net: NetName=NetCS4_1 Pin=R4-2
+Added Net: Name=NetCS4_1
+Added Member To Class: ClassName=Touch Member=Component CS1 Chevron mTouch Slider
+Added Member To Class: ClassName=Touch Member=Component CS2 Linear mTouch Slider
+Added Member To Class: ClassName=Touch Member=Component CS4 Mutual Ring mTouch Sensor
+Added Member To Class: ClassName=Touch Member=Component R1 4K7
+Added Member To Class: ClassName=Touch Member=Component R2 4K7
+Added Member To Class: ClassName=Touch Member=Component R3 4K7
+Added Member To Class: ClassName=Touch Member=Component R4 4K7
+Added Member To Class: ClassName=Touch Member=Component R5 10K
+Added Member To Class: ClassName=Touch Member=Component R6 10K
+Added Member To Class: ClassName=Touch Member=Component R7 10K
+Added Member To Class: ClassName=Touch Member=Component R8 10K

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CS3 Pin=CS1-1
+Change Component Designator: OldDesignator=CS1 NewDesignator=CS2
+Change Component Designator: OldDesignator=CS2 NewDesignator=CS3
+Change Component Designator: OldDesignator=CS3 NewDesignator=CS1
+Added Pin To Net: NetName=CS1 Pin=CS2-1
+Added Pin To Net: NetName=CS3 Pin=CS3-1
