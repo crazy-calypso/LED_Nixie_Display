@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetBT?_1 Pin=BT?-1
+Removed Pin From Net: NetName=GND Pin=BT?-2
+Added Component: Designator=BT?(KSTN-3001_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/3/3001-3954.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. H, 09/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Body 13.21 x 12.07 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "3001"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-3
+Added Member To Class: ClassName=Control Member=Component C? CAP 100nF
+Added Member To Class: ClassName=Control Member=Component C? 100nF
+Added Member To Class: ClassName=Control Member=Component C? CAP 22pF 16V
+Added Member To Class: ClassName=Control Member=Component C? 100nF
+Added Member To Class: ClassName=LEDs Member=Component C? 100nF 16V
+Added Member To Class: ClassName=LEDs Member=Component C? 100nF 16V
+Added Member To Class: ClassName=LEDs Member=Component C? 100nF 16V
+Added Member To Class: ClassName=LEDs Member=Component C? 100nF 16V
+Added Member To Class: ClassName=LEDs Member=Component C? 100nF 16V
+Added Member To Class: ClassName=LEDs Member=Component C? 100nF 16V
+Added Member To Class: ClassName=LEDs Member=Component C? 100nF 16V
+Added Member To Class: ClassName=LEDs Member=Component C? 100nF 16V
+Added Member To Class: ClassName=LEDs Member=Component C? 100nF 16V
+Added Member To Class: ClassName=Control Member=Component P? UARTCON
+Added Member To Class: ClassName=Control Member=Component R? 4K7 5% 0603(1608)
+Added Member To Class: ClassName=RTC Member=Component R? 4K7
+Added Member To Class: ClassName=LEDs Member=Component U? 1655
+Added Member To Class: ClassName=LEDs Member=Component U? 1655
+Added Member To Class: ClassName=LEDs Member=Component U? 1655
+Added Member To Class: ClassName=LEDs Member=Component U? 1655
+Added Member To Class: ClassName=LEDs Member=Component U? 1655
+Added Member To Class: ClassName=LEDs Member=Component U? 1655
+Added Member To Class: ClassName=LEDs Member=Component U? 1655
+Added Member To Class: ClassName=LEDs Member=Component U? 1655
+Added Member To Class: ClassName=LEDs Member=Component U? 1655
+Added Room: Name=Control
+Added Room: Name=LEDs
+Added Room: Name=RTC
+Added Room: Name=USB
